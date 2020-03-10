@@ -1,0 +1,58 @@
+2020/3/4 9:24:57读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 9:24:57读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 9:24:58读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 9:24:59读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 9:24:59读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 9:25:06读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\9OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\9OC.txt”的一部分。
+2020/3/4 9:25:06读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\9OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\9OC.txt”的一部分。
+2020/3/4 9:25:08读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\15OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\15OC.txt”的一部分。
+2020/3/4 9:25:08读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\15OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\15OC.txt”的一部分。
+2020/3/4 9:25:11读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:05:03读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 10:05:04读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 10:05:04读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 10:05:04读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\8OC.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\8OC.txt”的一部分。
+2020/3/4 10:05:09读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\LYQ.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\LYQ.txt”的一部分。
+2020/3/4 10:05:09读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\LYQ.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\LYQ.txt”的一部分。
+2020/3/4 10:05:13读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:05:17读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\DJQ.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\DJQ.txt”的一部分。
+2020/3/4 10:05:17读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\DJQ.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\DJQ.txt”的一部分。
+2020/3/4 10:05:21读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\HXL.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\HXL.txt”的一部分。
+2020/3/4 10:05:21读取海浪数值预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Wave\NumericalForecast\20200304\HXL.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Wave\NumericalForecast\20200304\HXL.txt”的一部分。
+2020/3/4 10:05:22读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:06:35读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:07:40读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:08:02读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:09:38读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:09:59读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:10:22读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。
+2020/3/4 10:10:55读取气象每日预报出错：D:\FWork\productMaker\ForecastProductMaker\ServerApi\\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt
+未能找到路径“D:\FWork\productMaker\ForecastProductMaker\ServerApi\DailyData\Meteorological\ForecastFiles\20200304\JYC20200304.txt”的一部分。

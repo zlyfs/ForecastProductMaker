@@ -1,0 +1,100 @@
+﻿[
+	{
+		"missionID": 1,
+		"missionName": "8点产品总表",
+		"forecastFilesHead": "8OC",
+		"stationInfoFile": "8OCStationInfo.txt",
+		"outPutModel": "8点产品总表{yyyy}{mm}{dd}.txt;1"
+	},
+	{
+		"missionID": 2,
+		"missionName": "9点产品总表",
+		"forecastFilesHead": "9OC",
+		"stationInfoFile": "9OCStationInfo.txt",
+		"outPutModel": "9点产品总表{yyyy}{mm}{dd}.txt;1"
+	},
+	{
+		"missionID": 3,
+		"missionName": "15点产品总表",
+		"forecastFilesHead": "15OC",
+		"stationInfoFile": "15OCStationInfo.txt",
+		"outPutModel": "15点产品总表{yyyy}{mm}{dd}.txt;1"
+	},
+	{
+		"missionID": 4,
+		"missionName": "央视海浪",
+		"forecastFilesHead": "YSL",
+		"stationInfoFile": "YSLStationInfo.txt",
+		"outPutModel": "央视海浪{yyyy}{mm}{dd}.txt;1"
+	},
+	{
+		"missionID": 5,
+		"missionName": "凤凰卫视浪AM",
+		"forecastFilesHead": "FHA",
+		"stationInfoFile": "FHStationInfo.txt",
+		"outPutModel": "凤凰卫视浪{mm}{dd}am.txt;1"
+	},
+	{
+		"missionID": 6,
+		"missionName": "青岛烟台附近",
+		"forecastFilesHead": "QDY",
+		"stationInfoFile": "QDYStationInfo.txt",
+		"outPutModel": "浪{yy}{mm}{dd}.txt;1"
+	},
+	{
+		"missionID": 7,
+		"missionName": "教育台19城市",
+		"forecastFilesHead": "JYC",
+		"stationInfoFile": "JYStationInfo.txt",
+		"outPutModel": "海域_教育{yy}{mm}{dd}.txt;2"
+	},
+	{
+		"missionID": 8,
+		"missionName": "旅游休闲观光",
+		"forecastFilesHead": "LYX",
+		"stationInfoFile": "LYXStationInfo.txt",
+		"outPutModel": "浪{yy}{mm}{dd}.txt;1"
+	},
+	{
+		"missionID": 9,
+		"missionName": "凤凰卫视浪PM",
+		"forecastFilesHead": "FHP",
+		"stationInfoFile": "FHStationInfo.txt",
+		"outPutModel": "凤凰卫视浪{mm}{dd}pm.txt;1"
+	},
+	{
+		"missionID": 10,
+		"missionName": "旅游海岛",
+		"forecastFilesHead": "LYD",
+		"stationInfoFile": "LYDStationInfo.txt",
+		"outPutModel": "旅游海岛海浪{yyyy}{mm}{dd}.txt;1"
+	},
+	{
+		"missionID": 11,
+		"missionName": "航线",
+		"forecastFilesHead": "HXL",
+		"stationInfoFile": "HXLStationInfo.txt",
+		"outPutModel": "浪{yy}{mm}{dd}.txt;1"
+	},
+	{
+		"missionID": 12,
+		"missionName": "旅游全球",
+		"forecastFilesHead": "LYQ",
+		"stationInfoFile": "LYQStationInfo.txt",
+		"outPutModel": "海浪-旅游全球{yy}{mm}{dd}.txt;4"
+	},
+	{
+		"missionID": 13,
+		"missionName": "海水浴场浪",
+		"forecastFilesHead": "HSY",
+		"stationInfoFile": "HSYStationInfo.txt",
+		"outPutModel": "{yy}{mm}{dd}海水浴场海浪预报.doc;3"
+	},
+	{
+		"missionID": 14,
+		"missionName": "度假区浪预报",
+		"forecastFilesHead": "DJQ",
+		"stationInfoFile": "DJQStationInfo.txt",
+		"outPutModel": "浪{yy}{mm}{dd}.txt;1"
+	}
+]

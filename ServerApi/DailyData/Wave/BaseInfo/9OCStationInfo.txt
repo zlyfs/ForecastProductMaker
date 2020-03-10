@@ -1,0 +1,522 @@
+[
+	{
+		"stationID": 1,
+		"stationName": "海参崴",
+		"forecastPrescription": 1,
+		"coordinateX": 131.877203,
+		"coordinateY": 43.110025,
+		"photoHead": "HAISHENWAI_DAY"
+	},
+	{
+		"stationID": 2,
+		"stationName": "觉华岛",
+		"forecastPrescription": 3,
+		"coordinateX": 120.812369,
+		"coordinateY": 40.504250999999999,
+		"photoHead": "JUEHUADAO_DAY"
+	},
+	{
+		"stationID": 3,
+		"stationName": "秦皇岛海域",
+		"forecastPrescription": 3,
+		"coordinateX": 119.629087,
+		"coordinateY": 39.920391,
+		"photoHead": "QINHUANGDAO_DAY"
+	},
+	{
+		"stationID": 4,
+		"stationName": "菩提岛",
+		"forecastPrescription": 3,
+		"coordinateX": 118.842351,
+		"coordinateY": 39.144393,
+		"photoHead": "PUTIDAO_DAY"
+	},
+	{
+		"stationID": 5,
+		"stationName": "长山群岛",
+		"forecastPrescription": 3,
+		"coordinateX": 122.881385,
+		"coordinateY": 39.068156,
+		"photoHead": "CHANGSHANQUNDAO_DAY"
+	},
+	{
+		"stationID": 6,
+		"stationName": "天津海域",
+		"forecastPrescription": 3,
+		"coordinateX": 117.704235,
+		"coordinateY": 38.934324,
+		"photoHead": "TIANJIN_DAY"
+	},
+	{
+		"stationID": 7,
+		"stationName": "大连海域",
+		"forecastPrescription": 3,
+		"coordinateX": 121.682569,
+		"coordinateY": 38.878518,
+		"photoHead": "DALIAN_DAY"
+	},
+	{
+		"stationID": 8,
+		"stationName": "长岛",
+		"forecastPrescription": 3,
+		"coordinateX": 120.695025,
+		"coordinateY": 37.957708,
+		"photoHead": "CHANGDAO_DAY"
+	},
+	{
+		"stationID": 9,
+		"stationName": "刘公岛",
+		"forecastPrescription": 3,
+		"coordinateX": 122.216182,
+		"coordinateY": 37.505488,
+		"photoHead": "LIUGONGDAO_DAY"
+	},
+	{
+		"stationID": 10,
+		"stationName": "烟台海域",
+		"forecastPrescription": 1,
+		"coordinateX": 121.475689,
+		"coordinateY": 37.478804,
+		"photoHead": "YANTAI_DAY"
+	},
+	{
+		"stationID": 11,
+		"stationName": "青岛海域",
+		"forecastPrescription": 3,
+		"coordinateX": 120.372211,
+		"coordinateY": 36.050753,
+		"photoHead": "QINGDAO_DAY"
+	},
+	{
+		"stationID": 12,
+		"stationName": "灵山岛",
+		"forecastPrescription": 3,
+		"coordinateX": 120.178598,
+		"coordinateY": 35.765971,
+		"photoHead": "LINGSHANDAO_DAY"
+	},
+	{
+		"stationID": 13,
+		"stationName": "日照海域",
+		"forecastPrescription": 1,
+		"coordinateX": 119.570788,
+		"coordinateY": 35.412249,
+		"photoHead": "RIZHAO_DAY"
+	},
+	{
+		"stationID": 14,
+		"stationName": "秦山岛",
+		"forecastPrescription": 3,
+		"coordinateX": 119.288388,
+		"coordinateY": 34.874753,
+		"photoHead": "QINSHANDAO_DAY"
+	},
+	{
+		"stationID": 15,
+		"stationName": "连云港海域",
+		"forecastPrescription": 3,
+		"coordinateX": 119.476987,
+		"coordinateY": 34.766101,
+		"photoHead": "LIANYUNGANG_DAY"
+	},
+	{
+		"stationID": 16,
+		"stationName": "连岛",
+		"forecastPrescription": 3,
+		"coordinateX": 119.477774,
+		"coordinateY": 34.765512,
+		"photoHead": "LIANDAO_DAY"
+	},
+	{
+		"stationID": 17,
+		"stationName": "济州岛",
+		"forecastPrescription": 3,
+		"coordinateX": 126.543145,
+		"coordinateY": 33.361737,
+		"photoHead": "JIZHOUDAO_DAY"
+	},
+	{
+		"stationID": 18,
+		"stationName": "崇明岛",
+		"forecastPrescription": 3,
+		"coordinateX": 121.960073,
+		"coordinateY": 31.520279,
+		"photoHead": "CHONGMINGDAO_DAY"
+	},
+	{
+		"stationID": 19,
+		"stationName": "上海海域",
+		"forecastPrescription": 3,
+		"coordinateX": 121.81974,
+		"coordinateY": 31.155368,
+		"photoHead": "SHANGHAI_DAY"
+	},
+	{
+		"stationID": 20,
+		"stationName": "嵊泗列岛",
+		"forecastPrescription": 3,
+		"coordinateX": 122.457588,
+		"coordinateY": 30.731274,
+		"photoHead": "SHENGSILIEDAO_DAY"
+	},
+	{
+		"stationID": 21,
+		"stationName": "岱山岛",
+		"forecastPrescription": 3,
+		"coordinateX": 122.160427,
+		"coordinateY": 30.291052,
+		"photoHead": "DAISHANDAO_DAY"
+	},
+	{
+		"stationID": 22,
+		"stationName": "东极岛",
+		"forecastPrescription": 3,
+		"coordinateX": 122.692484,
+		"coordinateY": 30.201069,
+		"photoHead": "DONGJIDAO_DAY"
+	},
+	{
+		"stationID": 23,
+		"stationName": "宁波海域",
+		"forecastPrescription": 1,
+		"coordinateX": 121.680072,
+		"coordinateY": 30.010602,
+		"photoHead": "NINGBOHAIYU_DAY"
+	},
+	{
+		"stationID": 24,
+		"stationName": "普陀山",
+		"forecastPrescription": 3,
+		"coordinateX": 122.397608,
+		"coordinateY": 30.007976,
+		"photoHead": "PUTUOSHAN_DAY"
+	},
+	{
+		"stationID": 25,
+		"stationName": "舟山海域",
+		"forecastPrescription": 3,
+		"coordinateX": 122.213556,
+		"coordinateY": 29.990912,
+		"photoHead": "ZHOUSHAN_DAY"
+	},
+	{
+		"stationID": 26,
+		"stationName": "大陈岛",
+		"forecastPrescription": 3,
+		"coordinateX": 121.906076,
+		"coordinateY": 28.493103,
+		"photoHead": "DACHENDAO_DAY"
+	},
+	{
+		"stationID": 27,
+		"stationName": "玉环岛",
+		"forecastPrescription": 3,
+		"coordinateX": 121.350906,
+		"coordinateY": 28.103378,
+		"photoHead": "YUHUANDAO_DAY"
+	},
+	{
+		"stationID": 28,
+		"stationName": "温州海域",
+		"forecastPrescription": 1,
+		"coordinateX": 120.862281,
+		"coordinateY": 27.913787,
+		"photoHead": "WENZHOU_DAY"
+	},
+	{
+		"stationID": 29,
+		"stationName": "洞头岛",
+		"forecastPrescription": 3,
+		"coordinateX": 121.163402,
+		"coordinateY": 27.841998,
+		"photoHead": "DONGTOUDAO_DAY"
+	},
+	{
+		"stationID": 30,
+		"stationName": "南麂岛",
+		"forecastPrescription": 3,
+		"coordinateX": 121.107268,
+		"coordinateY": 27.457506,
+		"photoHead": "NANJIDAO_DAY"
+	},
+	{
+		"stationID": 31,
+		"stationName": "嵛山岛",
+		"forecastPrescription": 3,
+		"coordinateX": 120.38224,
+		"coordinateY": 26.941913,
+		"photoHead": "YUSHANDAO_DAY"
+	},
+	{
+		"stationID": 32,
+		"stationName": "三都岛",
+		"forecastPrescription": 3,
+		"coordinateX": 119.701589,
+		"coordinateY": 26.657756,
+		"photoHead": "SANDUDAO_DAY"
+	},
+	{
+		"stationID": 33,
+		"stationName": "冲绳",
+		"forecastPrescription": 3,
+		"coordinateX": 127.795771,
+		"coordinateY": 26.336868,
+		"photoHead": "CHONGSHENG_DAY"
+	},
+	{
+		"stationID": 34,
+		"stationName": "福州海域",
+		"forecastPrescription": 1,
+		"coordinateX": 119.678315,
+		"coordinateY": 25.933918,
+		"photoHead": "FUZHOUHAIYU_DAY"
+	},
+	{
+		"stationID": 35,
+		"stationName": "钓鱼岛",
+		"forecastPrescription": 3,
+		"coordinateX": 123.479395,
+		"coordinateY": 25.750453,
+		"photoHead": "DIAOYUDAO_DAY"
+	},
+	{
+		"stationID": 36,
+		"stationName": "平潭海域",
+		"forecastPrescription": 3,
+		"coordinateX": 119.79708,
+		"coordinateY": 25.504766,
+		"photoHead": "PINGTAN_DAY"
+	},
+	{
+		"stationID": 37,
+		"stationName": "平潭岛",
+		"forecastPrescription": 3,
+		"coordinateX": 119.796035,
+		"coordinateY": 25.494234,
+		"photoHead": "PINGTANDAO_DAY"
+	},
+	{
+		"stationID": 38,
+		"stationName": "基隆",
+		"forecastPrescription": 3,
+		"coordinateX": 121.77642,
+		"coordinateY": 25.165545,
+		"photoHead": "JILONG_DAY"
+	},
+	{
+		"stationID": 39,
+		"stationName": "湄洲岛",
+		"forecastPrescription": 3,
+		"coordinateX": 119.134928,
+		"coordinateY": 25.069468,
+		"photoHead": "MEIZHOUDAO_DAY"
+	},
+	{
+		"stationID": 40,
+		"stationName": "厦门海域",
+		"forecastPrescription": 3,
+		"coordinateX": 118.177786,
+		"coordinateY": 24.455545,
+		"photoHead": "XIAMEN_DAY"
+	},
+	{
+		"stationID": 41,
+		"stationName": "东山岛",
+		"forecastPrescription": 3,
+		"coordinateX": 117.48082,
+		"coordinateY": 23.696826,
+		"photoHead": "DONGSHANDAO_DAY"
+	},
+	{
+		"stationID": 42,
+		"stationName": "澎湖列岛",
+		"forecastPrescription": 3,
+		"coordinateX": 119.587008,
+		"coordinateY": 23.574627,
+		"photoHead": "PENGHULIEDAO_DAY"
+	},
+	{
+		"stationID": 43,
+		"stationName": "南澳岛",
+		"forecastPrescription": 3,
+		"coordinateX": 117.143406,
+		"coordinateY": 23.447727,
+		"photoHead": "NANAODAO_DAY"
+	},
+	{
+		"stationID": 44,
+		"stationName": "汕头海域",
+		"forecastPrescription": 1,
+		"coordinateX": 116.784324,
+		"coordinateY": 23.3429,
+		"photoHead": "SHANTOU_DAY"
+	},
+	{
+		"stationID": 45,
+		"stationName": "深圳海域",
+		"forecastPrescription": 3,
+		"coordinateX": 114.313778,
+		"coordinateY": 22.598381,
+		"photoHead": "SHENZHENHAIYU_DAY"
+	},
+	{
+		"stationID": 46,
+		"stationName": "高雄",
+		"forecastPrescription": 1,
+		"coordinateX": 120.294633,
+		"coordinateY": 22.591037,
+		"photoHead": "GAOXIONG_DAY"
+	},
+	{
+		"stationID": 47,
+		"stationName": "香港",
+		"forecastPrescription": 3,
+		"coordinateX": 114.219326,
+		"coordinateY": 22.225619,
+		"photoHead": "XIANGGANG_DAY"
+	},
+	{
+		"stationID": 48,
+		"stationName": "澳门",
+		"forecastPrescription": 1,
+		"coordinateX": 113.587952,
+		"coordinateY": 22.160896,
+		"photoHead": "AOMEN_DAY"
+	},
+	{
+		"stationID": 49,
+		"stationName": "珠海海域",
+		"forecastPrescription": 1,
+		"coordinateX": 113.550793,
+		"coordinateY": 22.090488,
+		"photoHead": "ZHUHAIHAIYU_DAY"
+	},
+	{
+		"stationID": 50,
+		"stationName": "万山群岛",
+		"forecastPrescription": 3,
+		"coordinateX": 113.75782,
+		"coordinateY": 21.951497,
+		"photoHead": "WANSHANQUNDAO_DAY"
+	},
+	{
+		"stationID": 51,
+		"stationName": "阳江",
+		"forecastPrescription": 1,
+		"coordinateX": 112.03987,
+		"coordinateY": 21.770126,
+		"photoHead": "YANGJIANG_DAY"
+	},
+	{
+		"stationID": 52,
+		"stationName": "川山群岛",
+		"forecastPrescription": 3,
+		"coordinateX": 112.802422,
+		"coordinateY": 21.681528,
+		"photoHead": "CHUANSHANQUNDAO_DAY"
+	},
+	{
+		"stationID": 53,
+		"stationName": "海陵岛",
+		"forecastPrescription": 3,
+		"coordinateX": 111.830827,
+		"coordinateY": 21.571418,
+		"photoHead": "HAILINGDAO_DAY"
+	},
+	{
+		"stationID": 54,
+		"stationName": "北海海域",
+		"forecastPrescription": 3,
+		"coordinateX": 109.162751,
+		"coordinateY": 21.407644,
+		"photoHead": "BEIHAI_DAY"
+	},
+	{
+		"stationID": 55,
+		"stationName": "南三岛",
+		"forecastPrescription": 3,
+		"coordinateX": 110.597507,
+		"coordinateY": 21.141414,
+		"photoHead": "NANSANDAO_DAY"
+	},
+	{
+		"stationID": 56,
+		"stationName": "涠洲岛",
+		"forecastPrescription": 3,
+		"coordinateX": 109.114512,
+		"coordinateY": 21.042738,
+		"photoHead": "WEIZHOUDAO_DAY"
+	},
+	{
+		"stationID": 57,
+		"stationName": "东海岛",
+		"forecastPrescription": 3,
+		"coordinateX": 110.54929,
+		"coordinateY": 21.021549,
+		"photoHead": "DONGHAIDAO_DAY"
+	},
+	{
+		"stationID": 58,
+		"stationName": "海口海域",
+		"forecastPrescription": 3,
+		"coordinateX": 110.304542,
+		"coordinateY": 20.037801,
+		"photoHead": "HAIKOU_DAY"
+	},
+	{
+		"stationID": 59,
+		"stationName": "分界洲岛",
+		"forecastPrescription": 3,
+		"coordinateX": 110.207135,
+		"coordinateY": 18.582603,
+		"photoHead": "FENJIEZHOUDAO_DAY"
+	},
+	{
+		"stationID": 60,
+		"stationName": "蜈支洲岛",
+		"forecastPrescription": 3,
+		"coordinateX": 109.772033,
+		"coordinateY": 18.315272,
+		"photoHead": "WUZHIZHOUDAO_DAY"
+	},
+	{
+		"stationID": 61,
+		"stationName": "三亚海域",
+		"forecastPrescription": 3,
+		"coordinateX": 109.508858,
+		"coordinateY": 18.248093,
+		"photoHead": "SANYA_DAY"
+	},
+	{
+		"stationID": 62,
+		"stationName": "永兴岛",
+		"forecastPrescription": 3,
+		"coordinateX": 112.354514,
+		"coordinateY": 16.840138,
+		"photoHead": "YONGXINGDAO_DAY"
+	},
+	{
+		"stationID": 63,
+		"stationName": "三沙",
+		"forecastPrescription": 1,
+		"coordinateX": 112.345045,
+		"coordinateY": 16.83698,
+		"photoHead": "SANSHA_DAY"
+	},
+	{
+		"stationID": 64,
+		"stationName": "黄岩岛",
+		"forecastPrescription": 3,
+		"coordinateX": 117.773555,
+		"coordinateY": 15.155328,
+		"photoHead": "HUANGYANDAO_DAY"
+	},
+	{
+		"stationID": 65,
+		"stationName": "永暑礁",
+		"forecastPrescription": 3,
+		"coordinateX": 112.900485,
+		"coordinateY": 9.55496,
+		"photoHead": "YONGSHUJIAO_DAY"
+	}
+]

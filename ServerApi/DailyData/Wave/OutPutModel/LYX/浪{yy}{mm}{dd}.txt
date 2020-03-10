@@ -1,0 +1,12 @@
+大连: {fw},{fw},{fw}
+天津: {fw},{fw},{fw}
+青岛: {fw},{fw},{fw}
+连云港: {fw},{fw},{fw}
+上海: {fw},{fw},{fw}
+舟山: {fw},{fw},{fw}
+平潭: {fw},{fw},{fw}
+厦门: {fw},{fw},{fw}
+深圳: {fw},{fw},{fw}
+北海: {fw},{fw},{fw}
+海口: {fw},{fw},{fw}
+三亚: {fw},{fw},{fw}

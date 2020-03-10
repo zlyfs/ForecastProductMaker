@@ -1,0 +1,8 @@
+[
+{"missionID":1,
+"missionName":"教育台19城市",
+"forecastFilesHead":"JYC",
+"stationInfoFile":"JYStationInfo.txt",
+"outPutModel":"海域_教育{yy}{mm}{dd}.txt;0"
+}
+]

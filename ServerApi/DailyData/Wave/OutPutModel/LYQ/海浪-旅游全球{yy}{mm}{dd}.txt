@@ -1,0 +1,14 @@
+{yyyy}年{mm}月{dd}日发布旅游卫视-全球预报
+
+
+名称       浪高（m）    备注
+
+大连        {fwqq}        
+海参崴      {fwqq}        
+济州岛      {fwqq}        
+
+上海        {fwqq}        
+基隆        {fwqq}        
+
+三亚        {fwqq}        
+香港        {fwqq}        

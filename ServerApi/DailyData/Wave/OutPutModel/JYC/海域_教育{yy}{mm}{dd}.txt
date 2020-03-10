@@ -1,0 +1,30 @@
+ {yyyy}年{mm}月{dd}日海域教育预报
+ 
+名称            浪高（米）     视程（公里）          提示
+大连海域            {fw}           {fmv}             {fwt}
+烟台海域            {fw}           {fmv}             {fwt}
+
+秦皇岛海域          {fw}           {fmv}             {fwt}
+天津海域            {fw}           {fmv}             {fwt}
+
+青岛海域            {fw}           {fmv}             {fwt}
+连云港海域          {fw}           {fmv}             {fwt}
+
+上海海域            {fw}           {fmv}              {fwt}
+舟山海域            {fw}           {fmv}              {fwt}
+
+宁波海域            {fw}           {fmv}             {fwt}
+温州海域            {fw}           {fmv}             {fwt}
+
+福州海域            {fw}           {fmv}             {fwt}
+平潭海域            {fw}           {fmv}             {fwt}
+
+厦门海域            {fw}           {fmv}             {fwt}
+汕头海域            {fw}           {fmv}             {fwt}
+
+深圳海域            {fw}           {fmv}             {fwt}
+珠海海域            {fw}           {fmv}             {fwt}
+
+北海海域            {fw}           {fmv}             {fwt}
+海口海域            {fw}           {fmv}             {fwt}
+三亚海域            {fw}           {fmv}             {fwt}
